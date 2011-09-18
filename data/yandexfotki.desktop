@@ -1,0 +1,12 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=YandexFotki
+Comment=Download and slide best photos from Yandex.
+TryExec=YandexFotkiSaver
+Exec=YandexFotkiSaver -root
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
+OnlyShowIn=GNOME;

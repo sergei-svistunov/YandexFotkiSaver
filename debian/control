@@ -1,0 +1,13 @@
+Source: yandex-fotki-saver
+Section: gnome
+Priority: extra
+Maintainer: Sergey Svistunov <sergei-svistunov@yandex.ru>
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev
+Standards-Version: 3.9.1
+Homepage: http://nano.yandex.ru/project/yafotki-screensaver
+
+Package: yandex-fotki-saver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, gnome-screensaver
+Description: Yandex Fotki Screensaver
+ Download and slide top 50 photos from http://fotki.yandex.ru.
