@@ -1,4 +1,22 @@
-yandex-fotki-saver (1.0-1) unstable; urgency=low
+yandex-fotki-saver (1.0-1ubuntu3) natty; urgency=low
+
+  * Fix build depends: remove shtool, add automake
+
+ -- Sergey Svistunov <sergei-svistunov@yandex.ru>  Mon, 19 Sep 2011 10:07:20 +0400
+
+yandex-fotki-saver (1.0-1ubuntu2) natty; urgency=low
+
+  * Fix build depends: add shtool
+
+ -- Sergey Svistunov <sergei-svistunov@yandex.ru>  Mon, 19 Sep 2011 09:10:28 +0400
+
+yandex-fotki-saver (1.0-1ubuntu1) natty; urgency=low
+
+  * Fix depends
+
+ -- Sergey Svistunov <sergei-svistunov@yandex.ru>  Mon, 19 Sep 2011 08:29:19 +0400
+
+yandex-fotki-saver (1.0-1) natty; urgency=low
 
   * Initial release
 

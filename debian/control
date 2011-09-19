@@ -2,7 +2,7 @@ Source: yandex-fotki-saver
 Section: gnome
 Priority: extra
 Maintainer: Sergey Svistunov <sergei-svistunov@yandex.ru>
-Build-Depends: debhelper (>= 7.0.50~), autotools-dev, autoconf, libgcc1, libc6-dev, libstdc++6-4.5-dev, libx11-dev, libgl-dev, libglew-dev, libmagick++-dev, libcurl-dev, libxml2-dev
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev, autoconf, automake, libgcc1, libc6-dev (>= 2.13~), libstdc++6-4.5-dev, libx11-dev, libgl1-mesa-dev, libglew-dev, libmagick++-dev, libcurl4-openssl-dev, libxml2-dev
 Standards-Version: 3.9.1
 Homepage: http://nano.yandex.ru/project/yafotki-screensaver
 
